@@ -1,6 +1,6 @@
 ## Questionnaire #1 - HOPE App
 
-#Background Information
+## Background Information
 
 Facility:
 
