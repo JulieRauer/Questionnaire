@@ -4,9 +4,9 @@ Background Information
 Facility:
 Name:
 Age:
-< 50
-50 - 60
-61 - 70
+< 50, 
+50 - 60, 
+61 - 70, 
 > 70
 General Health Condition:
 
