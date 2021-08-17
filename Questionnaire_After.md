@@ -1,6 +1,6 @@
-Questionnaire #2 - HOPE Software System
+## Questionnaire #2 - HOPE App
 
-Background Information
+## Background Information
 
 Facility:
 
@@ -59,7 +59,7 @@ Please indicate how important this feature is to you on a scale from 1 - 5.
 
 Any comments about this feature that detects your fall?
 
-Speech:
+## Speech:
 
 6. Do you find that people are able to understand what you say?
 
@@ -67,7 +67,7 @@ Speech:
 
 1	2	3	4	5
 
-Sight:
+## Sight:
 
 7. Do you have trouble seeing small print items or smaller sized images?
 
@@ -75,7 +75,7 @@ Sight:
 
 1	2	3	4	5
 
-Hearing:
+## Hearing:
 
 8. Do you hear what people say to you or hear sounds around you? - For example: cannot hear the phone ring or the door bell?
 
@@ -89,7 +89,7 @@ Hearing:
 
 1	2	3	4	5
 
-Memory:
+## Memory:
 
 10. Do you think clearly? - For example: remember friends, family, lists of things, to pay your bills
 
@@ -112,7 +112,7 @@ Memory:
 
 1	2	3	4	5	6	7
 
-Medications / Vitamins and Reminders:
+## Medications/Vitamins and Reminders:
 
 14. Do you take any medications or vitamins?	Y/N
 
@@ -156,7 +156,7 @@ would respond back with directions on:
 Please explain:
 
 
-Mobility:
+## Mobility:
 
 23. Do you normally walk without assistance?
 
@@ -177,7 +177,7 @@ Please describe:
 
 1	2	3	4	5
 
-Locator Device:
+## Locator Device:
 
 Imagine that you are in a crowded store or shopping mall and you become separated from your family. 
 With the locator, you can easily find your family.
@@ -192,7 +192,7 @@ With the locator, you can easily find your family.
 
 1	2	3	4	5
 
-HOPE Smartphone App:
+## HOPE Smartphone App:
 
 Please complete this section after the brief demo of the HOPE app.
 
