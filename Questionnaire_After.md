@@ -200,7 +200,7 @@ Create a sentence on this phone - have fun!
 
 27. Generate the sentence.
 
-	> "I want apple. "I want icecream."
+	* "I want apple. "I want icecream."
 	(Press on the food item, 'apple', go to Actions -> Verbs and press 'want')
 	> "I wear scarf."
 	(Press 'wear' icon then go to -> Things and select 'scarf')
