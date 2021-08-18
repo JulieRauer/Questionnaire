@@ -21,7 +21,6 @@ General Health Condition:
 
 
 2. Can you give me an idea of what happens here in a typical day?
-(Please give me an idea of your daily routine.)
 
 
 	a. What kind of things do you ask for when you need help during a typical day?
