@@ -59,7 +59,7 @@ ambulance or calls your contact person.
 	
 Any comments about this feature that detects your fall?
 	
-<pre>## Speech: <pre>
+## Speech:
 
 6. Do you find that people are able to understand what you say?
 
