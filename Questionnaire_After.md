@@ -297,7 +297,7 @@ As shown, the 9-1-1 button is part of the emergency feature.
 
 	<pre>1	2	3	4	5	6	7 <pre>
 
-44. Why did you give the HOPE app the above rating?
+43. Why did you give the HOPE app the above rating?
 
 
  
