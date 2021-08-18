@@ -192,11 +192,9 @@ Please indicate how important this feature is to you on a scale from 1 - 5.
 Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 - very important
 
 
-	
 
+	1	2	3	4	5 
 
-	<pre>1	2	3	4	5 <pre>
-\
 ## HOPE Smartphone App:
 
 Please complete this section after the brief demo of the HOPE app.
