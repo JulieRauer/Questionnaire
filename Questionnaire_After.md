@@ -195,7 +195,7 @@ Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 
 	
 
 
-	<pre>1	2	3	4	5 <pre>
+<pre>1	2	3	4	5 <pre>
 
 ## HOPE Smartphone App:
 
