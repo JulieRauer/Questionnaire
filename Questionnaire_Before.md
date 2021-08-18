@@ -37,7 +37,8 @@ General Health Condition:
 
 	e. Do you take any medicine? 
 	
-		1. How do you know what to take and when to take it?
+	
+	f. How do you know what medicine to take and when to take it?
 
 
 3. Do you have a task / to-do list to help you remember these scheduled activities?
