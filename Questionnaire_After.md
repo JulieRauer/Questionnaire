@@ -8,8 +8,8 @@ Name:
 
 Age:
 * < 50 
-* 50 - 60, 
-* 61 - 70, 
+* 50 - 60 
+* 61 - 70 
 * \< 70
 
 General Health Condition:
@@ -19,29 +19,29 @@ General Health Condition:
 
 2. If you are not comfortable using a smartphone, check all the difficulties that you have faced (check all that apply):
 
-	> Icons are unclear or too small
-	> Complicated password mechanism
-	> Press the wrong buttons by accident
-	> Trouble using the internet
-	> Trouble changing the phone settings
-	> Difficulty finding contacts on my smartphone
-	> Cannot hear the person I am talking to, they speak too softly sometimes
-	> Other: (please describe)
+	* Icons are unclear or too small
+	* Complicated password mechanism
+	* Press the wrong buttons by accident
+	* Trouble using the internet
+	* Trouble changing the phone settings
+	* Difficulty finding contacts on my smartphone
+	* Cannot hear the person I am talking to, they speak too softly sometimes
+	* Other: (please describe)
 
 3. What categories do you usually talk about or generally use? Check all that apply:
 
-	> People
-	> Pets
-	> Places
-	> Clothes
-	> Appliances
-	> Medicines
-	> Occasions
-	> Foods
-	> Moods
-	> Households
-	> Weather
-	> Sports
+	* People
+	* Pets
+	* Places
+	* Clothes
+	* Appliances
+	* Medicines
+	* Occasions
+	* Foods
+	* Moods
+	* Households
+	* Weather
+	* Sports
 
 4. Give one or more categories (other than what is listed above) that is important to you?
 
