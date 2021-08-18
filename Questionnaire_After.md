@@ -79,29 +79,29 @@ Any comments about this feature that detects your fall?
 
 8. Do you hear what people say to you or hear sounds around you? - For example: cannot hear the phone ring or the door bell?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids
 
-	1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 9. If someone is speaking softly, can you hear them?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids
 
-	1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 ## Memory:
 
 10. Do you think clearly? - For example: remember friends, family, lists of things, to pay your bills
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia
 
-	1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 11. Do you have difficulty recalling memories?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia
 
-	1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 12. Other memory loss, please describe: 
 
@@ -110,7 +110,7 @@ Any comments about this feature that detects your fall?
 
 	Circle: 1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never
 
-1	2	3	4	5	6	7
+	<pre>1	2	3	4	5	6	7 <pre>
 
 ## Medications/Vitamins and Reminders:
 
@@ -120,10 +120,10 @@ Any comments about this feature that detects your fall?
 
 16. What is your level of responsibility for taking your medications and vitamins. Check one:
 
-	> I am responsible for taking my medications and vitamins
-	> I am responsible for taking my medications and vitamins, but I have help
-	> I am NOT responsible for taking my medications and vitamins, they are given to me
-	> I do NOT take any medications or vitamins
+	[ ] I am responsible for taking my medications and vitamins
+	[ ] I am responsible for taking my medications and vitamins, but I have help
+	[ ] I am NOT responsible for taking my medications and vitamins, they are given to me
+	[ ] I do NOT take any medications or vitamins
 
 17. If you take any medications or vitamins, please continue.
     How many times a day do you take medications or vitamins? 
@@ -134,22 +134,22 @@ Any comments about this feature that detects your fall?
 recorded on your phone, and doctor information. If you typed a medication into your phone then your phone 
 would respond back with directions on:
 
-	> How to take the medication
-	> Any side effects
-	> Any conflicts with other medications that you are taking
-	> Any warnings or recommedations for further medical advice before taking this medication or vitamin
+	[ ] How to take the medication
+	[ ] Any side effects
+	[ ] Any conflicts with other medications that you are taking
+	[ ] Any warnings or recommedations for further medical advice before taking this medication or vitamin
 
 20. Do you take your medicines/vitamins correctly? 
 
-(1 - always correct, 2 - most of the time correct, 4 - sometimes making a mistake, 7 - I'm making mistakes a lot)
+	Circle: 1 - always correct, 2 - most of the time correct, 4 - sometimes making a mistake, 7 - I'm making mistakes a lot
 
-1	2	3	4	5	6	7
+	<pre>1	2	3	4	5	6	7 <pre>
 
 21. Please indicate how helpful the above information is to you on a scale from 1 - 7. 
 
-(1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never)
+	Circle: 1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never
 
-1	2	3	4	5	6	7
+	<pre>1	2	3	4	5	6	7 <pre>
 
 22. Would you use the medical reminder system? Y/N
 
@@ -160,12 +160,12 @@ Please explain:
 
 23. Do you normally walk without assistance?
 
-	> Yes, I can walk for long distances
-	> I can walk for short distances easily
-	> I can walk for short distances with a cane
-	> I can walk for short distances with a walker
-	> I can walk for short distances only with help from a nurse/helper
-	> I do not walk at all
+	[ ] Yes, I can walk for long distances
+	[ ] I can walk for short distances easily
+	[ ] I can walk for short distances with a cane
+	[ ] I can walk for short distances with a walker
+	[ ] I can walk for short distances only with help from a nurse/helper
+	[ ] I do not walk at all
 
 24. Would it be helpful for you to know how far you need to walk to get to your destination?	Y/N
 
@@ -173,24 +173,24 @@ Please describe:
 
 25. How often would you be using this feature?
 
-(1 - many times a day, 2 - daily, 3 - weekly, 4- once in a while, 5 - never)
+	Circle: 1 - many times a day, 2 - daily, 3 - weekly, 4- once in a while, 5 - never
 
-1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 ## Locator Device:
 
 Imagine that you are in a crowded store or shopping mall and you become separated from your family. 
 With the locator, you can easily find your family.
 
-	> Your family members could easily find you
-	> You could easily find your family members
-	> You could easily turn off this feature so that no one knows where you are
+	* Your family members could easily find you
+	* You could easily find your family members
+	* You could easily turn off this feature so that no one knows where you are
 
 26. Please indicate how important this feature is to you on a scale from 1 - 5.
 
-(1 - not important at all, 3 - maybe, 5 - very important)
+	Circle: 1 - not important at all, 3 - maybe, 5 - very important
 
-1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 ## HOPE Smartphone App:
 
@@ -202,43 +202,43 @@ Create a sentence on this phone - have fun!
 
 	* "I want apple. "I want icecream."
 	(Press on the food item, 'apple', go to Actions -> Verbs and press 'want')
-	> "I wear scarf."
+	* "I wear scarf."
 	(Press 'wear' icon then go to -> Things and select 'scarf')
-	> "I like milk."
-	> "I dislike broccoli."
-	> "When do I watch basketball?"
-	> "How are you?" 
-	> "Thank you."
+	* "I like milk."
+	* "I dislike broccoli."
+	* "When do I watch basketball?"
+	* "How are you?" 
+	* "Thank you."
 
 28. Did you enjoy using this feature?
 
-(1 - a lot, 3 - okay, 5 - not at all)
+	Circle: 1 - a lot, 3 - okay, 5 - not at all
 
-1	2	3	4	5
+<pre>1	2	3	4	5 <pre>
 
 29. Is generating a sentence simple and easy?
 
 (1 - easy, 5 - difficult)
 
-1	2	3	4	5
+<pre>1	2	3	4	5 <pre>
 
 30. Are the icons clear?
 
 (1 - vivid, 5 - undecipherable)
 
-1	2	3	4	5
+<pre>1	2	3	4	5 <pre>
 
 31. Are the icons recognizable?
 
 (1 - easy to recognize, 5 - unrecognizable)
 
-1	2	3	4	5
+<pre>1	2	3	4	5 <pre>
 
 32. Are the sounds audible?
 
 (1 - easy to hear, 5 - undecipherable)
 
-1	2	3	4	5
+<pre>1	2	3	4	5 <pre>
 
 Please complete the following question after seeing a settings change demonstrated in the HOPE app.
 
@@ -254,7 +254,7 @@ Search for something that you like. For example, a favorite food.
 
 (1 - easy, 5 - difficult)
 
-1	2	3	4	5
+<pre>1	2	3	4	5 <pre>
 
 Please complete the following question after seeing the locator system demonstrated in the HOPE app.
 
@@ -262,7 +262,7 @@ Please complete the following question after seeing the locator system demonstra
 
 (1 - satisfied, 5 - not satisfied)
 
-1	2	3	4	5 
+<pre>1	2	3	4	5 <pre>
 
 As shown, the 9-1-1 button is part of the emergency feature.
 
@@ -291,7 +291,7 @@ As shown, the 9-1-1 button is part of the emergency feature.
 
 (1 - cannot live without HOPE, 2 - great, 3 - very good, 4 - good, 5 - okay, 6 - take it or leave it, 7 - don't like HOPE)
 
-1	2	3	4	5	6	7
+<pre>1	2	3	4	5	6	7 <pre>
 
 44. Why did you give the HOPE app the above rating?
 
