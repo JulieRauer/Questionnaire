@@ -10,7 +10,7 @@ Age:
 * < 50 
 * 50 - 60, 
 * 61 - 70, 
-* &gt 70
+* \&gt 70
 
 General Health Condition:
 
