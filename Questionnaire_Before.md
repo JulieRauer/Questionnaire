@@ -45,6 +45,7 @@ General Health Condition:
 
 
 4. Do you spend much time talking with friends, relatives, or others here? 
+
 	a. How do you contact them? 
 	
 	b. Any problems contacting them?
