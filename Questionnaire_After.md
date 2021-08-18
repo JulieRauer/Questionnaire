@@ -55,9 +55,9 @@ ambulance or calls your contact person.
 
 	Circle: 1 - not important at all, 3 - maybe, 5 - very important)
 
-	<pre>1     2     3     4     5 /<pre>
+	<pre>1     2     3     4     5 <pre>
 
-	Any comments about this feature that detects your fall?
+Any comments about this feature that detects your fall?
 
 ## Speech:
 
