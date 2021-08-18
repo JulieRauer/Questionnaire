@@ -63,25 +63,25 @@ ambulance or calls your contact person.
 
 6. Do you find that people are able to understand what you say?
 
-(1 - always, 3 - sometimes, 4 - never, 5 - I can't speak)
+	(1 - always, 3 - sometimes, 4 - never, 5 - I can't speak)
 
-1	2	3	4	5
+	1	2	3	4	5
 
 ## Sight:
 
 7. Do you have trouble seeing small print items or smaller sized images?
 
-(1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind)
+	(1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind)
 
-1	2	3	4	5
+	1	2	3	4	5
 
 ## Hearing:
 
 8. Do you hear what people say to you or hear sounds around you? - For example: cannot hear the phone ring or the door bell?
 
-(1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
+	(1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
 
-1	2	3	4	5
+	1	2	3	4	5
 
 9. If someone is speaking softly, can you hear them?
 
