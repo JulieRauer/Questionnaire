@@ -53,27 +53,27 @@ ambulance or calls your contact person.
 
 	Please indicate how important this feature is to you on a scale from 1 - 5.
 
-	Circle: 1 - not important at all, 3 - maybe, 5 - very important)
+	Circle: 1 - not important at all, 3 - maybe, 5 - very important
 
 	<pre>1     2     3     4     5 <pre>
 	
- Any comments about this feature that detects your fall?
+        Any comments about this feature that detects your fall?
 	
 ## Speech: 
 
 6. Do you find that people are able to understand what you say?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I can't speak)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I can't speak
 
-	1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 ## Sight:
 
 7. Do you have trouble seeing small print items or smaller sized images?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind
 
-	1	2	3	4	5
+	<pre>1	2	3	4	5 <pre>
 
 ## Hearing:
 
