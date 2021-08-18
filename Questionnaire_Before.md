@@ -11,7 +11,7 @@ Age:
 General Health Condition:
 
 
-1. What are some of you favorite things to do (on a daily basis?
+1. What are some of you favorite things to do on a daily basis?
 
 
 	a. What are the most favorite things you ask for?
