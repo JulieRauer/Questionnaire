@@ -28,21 +28,24 @@ General Health Condition:
 
 
 	b. What parts of your days are scheduled?
-
-
-	Do you have a task / to-do list to help you remember these scheduled activities?
-
-
+	
+	
 	c. How do the nurses or aids help you with day to day problems?
 
 
 	d. Who is you "biggest" helper here?
 
 
-	e. Do you take any medicine? How do you know what to take and when to take it?
+	e. Do you take any medicine? 
+	
+	
+		1. How do you know what to take and when to take it?
 
 
-3. Do you spend much time talking with friends, relatives, or others here? How do you 
+3. Do you have a task / to-do list to help you remember these scheduled activities?
+
+
+4. Do you spend much time talking with friends, relatives, or others here? How do you 
 contact them? (Any problems?)
 
 
@@ -53,14 +56,14 @@ contact them? (Any problems?)
 4. Have you ever spent much time using a smartphone or a computer?
 
 
-	If you used a computer, did it help you in any way?
+	a. If you used a computer, did it help you in any way?
 
 
-	> Has a smartphone?		Y/N
-	> Computer experience?	Y/N
+	* Has a smartphone?	Y/N
+	* Computer experience?	Y/N
 
 
-	a. What did you like / not like about using each of these 
+	b. What did you like / not like about using each of these 
 	devices (smartphone / computer)? Ask about both.
 
 
@@ -86,7 +89,8 @@ Would you tell me what you think these pictures (icons) on the phone mean?
 	d. Things to observe:
 		1. Do they seem confused?		Y/N
 		2. Is there a long response-time?	Y/N
-		3. Do they push the correct button? If it's the wrong one, which one?
+		3. Do they push the correct button? 	Y/N
+			a. If it's the wrong one, which one?
 
 	e. Perform the previous steps for the following actions-
 		1. Say "I want to take a bath."
