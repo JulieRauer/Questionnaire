@@ -293,7 +293,7 @@ As shown, the 9-1-1 button is part of the emergency feature.
 
 42. Please rate the HOPE app?
 
-43. Why did you give the HOPE app the above rating?
+
 
 	Circle: 1 - cannot live without HOPE, 2 - great, 3 - very good, 4 - good, 5 - okay, 6 - take it or leave it, 7 - don't like HOPE
 
