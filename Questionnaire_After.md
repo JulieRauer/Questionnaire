@@ -185,14 +185,12 @@ With the locator, you can easily find your family.
 	* Your family members could easily find you
 	* You could easily find your family members
 	* You could easily turn off this feature so that no one knows where you are
-
+	Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 - very important
 Please indicate how important this feature is to you on a scale from 1 - 5.
 
-	Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 - very important
-	
-	Circle: 1 - many times a day, 2 - daily, 3 - weekly, 4- once in a while, 5 - never
 
-	<pre>1	2	3	4	5 <pre>
+	
+
 
 	<pre>1	2	3	4	5 <pre>
 
