@@ -189,7 +189,7 @@ With the locator, you can easily find your family.
 	
 Please indicate how important this feature is to you on a scale from 1 - 5.
 
-	Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 - very important
+Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 - very important
 
 
 	
