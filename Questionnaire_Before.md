@@ -11,10 +11,10 @@ Age:
 General Health Condition:
 
 
-1. What are some of you favorite things to do on a daily basis?
+1. What are some of your favorite things to do?
 
 
-	a. What are the most favorite things you ask for?
+	a. What are the most favorite things you might ask for?
 
 
 	b. What are your favorite foods?
@@ -37,22 +37,22 @@ General Health Condition:
 
 	e. Do you take any medicine? 
 	
-	
 		1. How do you know what to take and when to take it?
 
 
 3. Do you have a task / to-do list to help you remember these scheduled activities?
 
 
-4. Do you spend much time talking with friends, relatives, or others here? How do you 
-contact them? (Any problems?)
+4. Do you spend much time talking with friends, relatives, or others here? 
+	a. How do you contact them? 
+	
+	b. Any problems contacting them?
 
-
-	a. Can you think of anything that would make it easier / more pleasant for you 
+	c. Can you think of anything that would make it easier / more pleasant for you 
 	to talk with friends, relatives, or others here?
 
 
-4. Have you ever spent much time using a smartphone or a computer?
+5. Have you ever spent much time using a smartphone or a computer?
 
 
 	a. If you used a computer, did it help you in any way?
