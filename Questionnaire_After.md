@@ -17,7 +17,7 @@ General Health Condition:
 
 1. Have you previously used or are you comfortable using a smartphone?		Y/N
 
-2. If you are not comfortable using a smartphone, check all the difficulties that you have faced (check all that apply):
+2. If you are not comfortable using a smartphone, check all the difficulties that you have faced. Check all that apply:
 
 	* Icons are unclear or too small
 	* Complicated password mechanism
@@ -45,7 +45,7 @@ General Health Condition:
 
 4. Give one or more categories (other than what is listed above) that is important to you?
 
-	\Please list:
+	Please list:
 
 
 5. Suppose you have fallen and cannot get up, your phone would know that you fell and calls an 
@@ -53,7 +53,7 @@ ambulance or calls your contact person.
 
 	Please indicate how important this feature is to you on a scale from 1 - 5.
 
-	(1 - not important at all, 3 - maybe, 5 - very important)
+	Circle: 1 - not important at all, 3 - maybe, 5 - very important)
 
 	1	2	3	4	5
 
@@ -63,7 +63,7 @@ ambulance or calls your contact person.
 
 6. Do you find that people are able to understand what you say?
 
-	(1 - always, 3 - sometimes, 4 - never, 5 - I can't speak)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I can't speak)
 
 	1	2	3	4	5
 
@@ -71,7 +71,7 @@ ambulance or calls your contact person.
 
 7. Do you have trouble seeing small print items or smaller sized images?
 
-	(1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind)
 
 	1	2	3	4	5
 
@@ -79,36 +79,36 @@ ambulance or calls your contact person.
 
 8. Do you hear what people say to you or hear sounds around you? - For example: cannot hear the phone ring or the door bell?
 
-	(1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
 
 	1	2	3	4	5
 
 9. If someone is speaking softly, can you hear them?
 
-(1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids)
 
-1	2	3	4	5
+	1	2	3	4	5
 
 ## Memory:
 
 10. Do you think clearly? - For example: remember friends, family, lists of things, to pay your bills
 
-(1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia)
 
-1	2	3	4	5
+	1	2	3	4	5
 
 11. Do you have difficulty recalling memories?
 
-(1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia)
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia)
 
-1	2	3	4	5
+	1	2	3	4	5
 
 12. Other memory loss, please describe: 
 
 
 13. Do you often carry notes or a list of things that you want to be reminded of?
 
-(1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never)
+	Circle: 1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never
 
 1	2	3	4	5	6	7
 
