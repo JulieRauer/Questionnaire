@@ -176,7 +176,7 @@ Please describe:
 	Circle: 1 - many times a day, 2 - daily, 3 - weekly, 4- once in a while, 5 - never
 
 	<pre>1	2	3	4	5 <pre>
-
+\
 ## Locator Device:
 
 Imagine that you are in a crowded store or shopping mall and you become separated from your family. 
@@ -214,33 +214,39 @@ Create a sentence on this phone - have fun!
 
 	Circle: 1 - a lot, 3 - okay, 5 - not at all
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
-## HOPE Smartphone App:
+## Speech:
+
+6. Do you find that people are able to understand what you say?
+
+	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I can't speak
+
+	<pre>1	2	3	4	5 <pre>
 
 29. Is generating a sentence simple and easy?
 
-Circle: 1 - easy, 5 - difficult)
+	Circle: 1 - easy, 2 - kind of easy, 3 - okay, 4 - not so easy, 5 - difficult
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 30. Are the icons clear?
 
-Circle: 1 - vivid, 5 - undecipherable)
+Circle: 1 - vivid, 2 - good, 3 - okay, 4 - barely see it, 5 - undecipherable
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 31. Are the icons recognizable?
 
-Circle: 1 - easy to recognize, 5 - unrecognizable)
+Circle: 1 - easy to recognize, 5 - unrecognizable
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 32. Are the sounds audible?
 
-Circle: 1 - easy to hear, 5 - undecipherable)
+Circle: 1 - easy to hear, 5 - undecipherable
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 Please complete the following question after seeing a settings change demonstrated in the HOPE app.
 
@@ -254,17 +260,17 @@ Search for something that you like. For example, a favorite food.
 
 34. Was it easy? 
 
-Circle: 1 - easy, 5 - difficult)
+	Circle: 1 - easy, 5 - difficult
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 Please complete the following question after seeing the locator system demonstrated in the HOPE app.
 
 35. Were you satisfied with the display of the address and map shown?
 
-Circle: 1 - satisfied, 5 - not satisfied)
+	Circle: 1 - satisfied, 5 - not satisfied
 
-<pre>1	2	3	4	5 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 As shown, the 9-1-1 button is part of the emergency feature.
 
@@ -291,9 +297,9 @@ As shown, the 9-1-1 button is part of the emergency feature.
 
 43. Why did you give the HOPE app the above rating?
 
-Circle: 1 - cannot live without HOPE, 2 - great, 3 - very good, 4 - good, 5 - okay, 6 - take it or leave it, 7 - don't like HOPE
+	Circle: 1 - cannot live without HOPE, 2 - great, 3 - very good, 4 - good, 5 - okay, 6 - take it or leave it, 7 - don't like HOPE
 
-<pre>1	2	3	4	5	6	7 <pre>
+	<pre>1	2	3	4	5	6	7 <pre>
 
 44. Why did you give the HOPE app the above rating?
 
