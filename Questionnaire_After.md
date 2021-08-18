@@ -120,10 +120,10 @@ Any comments about this feature that detects your fall?
 
 16. What is your level of responsibility for taking your medications and vitamins. Check one:
 
-	[ ] I am responsible for taking my medications and vitamins
-	[ ] I am responsible for taking my medications and vitamins, but I have help
-	[ ] I am NOT responsible for taking my medications and vitamins, they are given to me
-	[ ] I do NOT take any medications or vitamins
+	* I am responsible for taking my medications and vitamins
+	* I am responsible for taking my medications and vitamins, but I have help
+	* I am NOT responsible for taking my medications and vitamins, they are given to me
+	* I do NOT take any medications or vitamins
 
 17. If you take any medications or vitamins, please continue.
     How many times a day do you take medications or vitamins? 
@@ -134,10 +134,10 @@ Any comments about this feature that detects your fall?
 recorded on your phone, and doctor information. If you typed a medication into your phone then your phone 
 would respond back with directions on:
 
-	[ ] How to take the medication
-	[ ] Any side effects
-	[ ] Any conflicts with other medications that you are taking
-	[ ] Any warnings or recommedations for further medical advice before taking this medication or vitamin
+	* How to take the medication
+	* Any side effects
+	* Any conflicts with other medications that you are taking
+	* Any warnings or recommedations for further medical advice before taking this medication or vitamin
 
 20. Do you take your medicines/vitamins correctly? 
 
@@ -160,12 +160,12 @@ Please explain:
 
 23. Do you normally walk without assistance?
 
-	[ ] Yes, I can walk for long distances
-	[ ] I can walk for short distances easily
-	[ ] I can walk for short distances with a cane
-	[ ] I can walk for short distances with a walker
-	[ ] I can walk for short distances only with help from a nurse/helper
-	[ ] I do not walk at all
+	* Yes, I can walk for long distances
+	* I can walk for short distances easily
+	* I can walk for short distances with a cane
+	* I can walk for short distances with a walker
+	* I can walk for short distances only with help from a nurse/helper
+	* I do not walk at all
 
 24. Would it be helpful for you to know how far you need to walk to get to your destination?	Y/N
 
@@ -289,7 +289,7 @@ As shown, the 9-1-1 button is part of the emergency feature.
 
 43. Why did you give the HOPE app the above rating?
 
-(1 - cannot live without HOPE, 2 - great, 3 - very good, 4 - good, 5 - okay, 6 - take it or leave it, 7 - don't like HOPE)
+Circle: 1 - cannot live without HOPE, 2 - great, 3 - very good, 4 - good, 5 - okay, 6 - take it or leave it, 7 - don't like HOPE
 
 <pre>1	2	3	4	5	6	7 <pre>
 
