@@ -53,7 +53,7 @@ ambulance or calls your contact person.
 
 	Please indicate how important this feature is to you on a scale from 1 - 5.
 
-	Circle: 1 - not important at all, 3 - maybe, 5 - very important
+	Circle: 1 - not important at all, 2 - not sure, 3 - maybe, 4- important, 5 - very important
 
 	<pre>1     2     3     4     5 <pre>
 	
@@ -63,7 +63,7 @@ Any comments about this feature that detects your fall?
 
 6. Do you find that people are able to understand what you say?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I can't speak
+	Circle: 1 - always, 2 - most of the time, 3 - sometimes, 4 - never, 5 - I can't speak
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -71,7 +71,7 @@ Any comments about this feature that detects your fall?
 
 7. Do you have trouble seeing small print items or smaller sized images?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I am legally blind
+	Circle: 1 - always, 2 - most of the time, 3 - sometimes, 4 - never, 5 - I am legally blind
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -79,13 +79,13 @@ Any comments about this feature that detects your fall?
 
 8. Do you hear what people say to you or hear sounds around you? - For example: cannot hear the phone ring or the door bell?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids
+	Circle: 1 - always, 2 - most of the time, 3 - sometimes, 4 - never, 5 - I wear hearing aids
 
 	<pre>1	2	3	4	5 <pre>
 
 9. If someone is speaking softly, can you hear them?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I wear hearing aids
+	Circle: 1 - always, 2 - most of the time, 3 - sometimes, 4 - never, 5 - I wear hearing aids
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -93,13 +93,13 @@ Any comments about this feature that detects your fall?
 
 10. Do you think clearly? - For example: remember friends, family, lists of things, to pay your bills
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia
+	Circle: 1 - always, 2 - most of the time, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia
 
 	<pre>1	2	3	4	5 <pre>
 
 11. Do you have difficulty recalling memories?
 
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia
+	Circle: 1 - always, 2 - most of the time, 3 - sometimes, 4 - never, 5 - I have alzheimers or dementia
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -108,9 +108,9 @@ Any comments about this feature that detects your fall?
 
 13. Do you often carry notes or a list of things that you want to be reminded of?
 
-	Circle: 1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never
+	Circle: 1 - always, 2 - a lot, 3 - sometimes, 4 - seldom, 5 - never
 
-	<pre>1	2	3	4	5	6	7 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 ## Medications/Vitamins and Reminders:
 
@@ -141,15 +141,15 @@ would respond back with directions on:
 
 20. Do you take your medicines/vitamins correctly? 
 
-	Circle: 1 - always correct, 2 - most of the time correct, 4 - sometimes making a mistake, 7 - I'm making mistakes a lot
+	Circle: 1 - always correct, 2 - most of the time correct, 3 - sometimes making a mistake, 4 - I make a lot of mistakes, 7 - I'm making mistakes all the time
 
-	<pre>1	2	3	4	5	6	7 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 21. Please indicate how helpful the above information is to you on a scale from 1 - 7. 
 
-	Circle: 1 - always, 2 - a lot, 4 - sometimes, 6- seldom, 7 - never
+	Circle: 1 - always, 2 - a lot, 3 - sometimes, 4- seldom, 5 - never
 
-	<pre>1	2	3	4	5	6	7 <pre>
+	<pre>1	2	3	4	5 <pre>
 
 22. Would you use the medical reminder system? Y/N
 
@@ -192,7 +192,6 @@ Please indicate how important this feature is to you on a scale from 1 - 5.
 Circle: 1 - not important at all, 2 - probably not, 3 - maybe, 4 - important, 5 - very important
 
 
-
 	1	2	3	4	5 
 
 ## HOPE Smartphone App:
@@ -215,7 +214,7 @@ Create a sentence on this phone - have fun!
 
 28. Did you enjoy using this feature?
 
-	Circle: 1 - a lot, 3 - okay, 5 - not at all
+	Circle: 1 - it's great, 2 - liked it a lot 3 - okay, 4 - might use it, 5 - not at all
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -234,13 +233,13 @@ Create a sentence on this phone - have fun!
 
 31. Are the icons recognizable?
 
-	Circle: 1 - easy to recognize, 5 - unrecognizable
+	Circle: 1 - easy to recognize, 2 - good, 3 - okay, 4 - barely see it, 5 - unrecognizable
 
 	<pre>1	2	3	4	5 <pre>
 
 32. Are the sounds audible?
 
-	Circle: 1 - easy to hear, 5 - undecipherable
+	Circle: 1 - easy to hear, 2 - good, 3 - okay, 4 - barely hear it, 5 - undecipherable
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -256,7 +255,7 @@ Search for something that you like. For example, a favorite food.
 
 34. Was it easy? 
 
-	Circle: 1 - easy, 5 - difficult
+	Circle: 1 - easy, 2 - kind of easy, 3 - okay, 4 - it didn't work for me, 5 - difficult
 
 	<pre>1	2	3	4	5 <pre>
 
@@ -264,7 +263,7 @@ Please complete the following question after seeing the locator system demonstra
 
 35. Were you satisfied with the display of the address and map shown?
 
-	Circle: 1 - satisfied, 5 - not satisfied
+	Circle: 1 - satisfied, 2 - good, 3 - okay, 4 - not so much, 5 - not satisfied
 
 	<pre>1	2	3	4	5 <pre>
 
