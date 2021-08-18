@@ -57,8 +57,8 @@ ambulance or calls your contact person.
 
 	<pre>1     2     3     4     5 <pre>
 	
-  <pre>Any comments about this feature that detects your fall?<pre>
-	
+<pre>Any comments about this feature that detects your fall?<pre>
+\	
 ## Speech: 
 
 6. Do you find that people are able to understand what you say?
