@@ -45,17 +45,17 @@ General Health Condition:
 
 4. Give one or more categories (other than what is listed above) that is important to you?
 
-Please list:
+	\Please list:
 
 
 5. Suppose you have fallen and cannot get up, your phone would know that you fell and calls an 
 ambulance or calls your contact person.
 
-Please indicate how important this feature is to you on a scale from 1 - 5.
+	\Please indicate how important this feature is to you on a scale from 1 - 5.
 
-(1 - not important at all, 3 - maybe, 5 - very important)
+	\(1 - not important at all, 3 - maybe, 5 - very important)
 
-1	2	3	4	5
+1\	\2	3	4	5
 
 Any comments about this feature that detects your fall?
 
