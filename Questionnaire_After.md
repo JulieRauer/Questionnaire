@@ -216,27 +216,29 @@ Create a sentence on this phone - have fun!
 
 <pre>1	2	3	4	5 <pre>
 
+## HOPE Smartphone App:
+
 29. Is generating a sentence simple and easy?
 
-(1 - easy, 5 - difficult)
+Circle: 1 - easy, 5 - difficult)
 
 <pre>1	2	3	4	5 <pre>
 
 30. Are the icons clear?
 
-(1 - vivid, 5 - undecipherable)
+Circle: 1 - vivid, 5 - undecipherable)
 
 <pre>1	2	3	4	5 <pre>
 
 31. Are the icons recognizable?
 
-(1 - easy to recognize, 5 - unrecognizable)
+Circle: 1 - easy to recognize, 5 - unrecognizable)
 
 <pre>1	2	3	4	5 <pre>
 
 32. Are the sounds audible?
 
-(1 - easy to hear, 5 - undecipherable)
+Circle: 1 - easy to hear, 5 - undecipherable)
 
 <pre>1	2	3	4	5 <pre>
 
@@ -252,7 +254,7 @@ Search for something that you like. For example, a favorite food.
 
 34. Was it easy? 
 
-(1 - easy, 5 - difficult)
+Circle: 1 - easy, 5 - difficult)
 
 <pre>1	2	3	4	5 <pre>
 
@@ -260,7 +262,7 @@ Please complete the following question after seeing the locator system demonstra
 
 35. Were you satisfied with the display of the address and map shown?
 
-(1 - satisfied, 5 - not satisfied)
+Circle: 1 - satisfied, 5 - not satisfied)
 
 <pre>1	2	3	4	5 <pre>
 
