@@ -176,7 +176,7 @@ Please describe:
 	Circle: 1 - many times a day, 2 - daily, 3 - weekly, 4- once in a while, 5 - never
 
 	<pre>1	2	3	4	5 <pre>
-\
+
 ## Locator Device:
 
 26. Imagine that you are in a crowded store or shopping mall and you become separated from your family. 
