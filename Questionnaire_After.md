@@ -179,14 +179,14 @@ Please describe:
 \
 ## Locator Device:
 
-Imagine that you are in a crowded store or shopping mall and you become separated from your family. 
+26. Imagine that you are in a crowded store or shopping mall and you become separated from your family. 
 With the locator, you can easily find your family.
 
 	* Your family members could easily find you
 	* You could easily find your family members
 	* You could easily turn off this feature so that no one knows where you are
 
-26. Please indicate how important this feature is to you on a scale from 1 - 5.
+Please indicate how important this feature is to you on a scale from 1 - 5.
 
 	Circle: 1 - not important at all, 3 - maybe, 5 - very important
 
@@ -216,13 +216,6 @@ Create a sentence on this phone - have fun!
 
 	<pre>1	2	3	4	5 <pre>
 
-## Speech:
-
-6. Do you find that people are able to understand what you say?
-
-	Circle: 1 - always, 3 - sometimes, 4 - never, 5 - I can't speak
-
-	<pre>1	2	3	4	5 <pre>
 
 29. Is generating a sentence simple and easy?
 
@@ -232,19 +225,19 @@ Create a sentence on this phone - have fun!
 
 30. Are the icons clear?
 
-Circle: 1 - vivid, 2 - good, 3 - okay, 4 - barely see it, 5 - undecipherable
+	Circle: 1 - vivid, 2 - good, 3 - okay, 4 - barely see it, 5 - undecipherable
 
 	<pre>1	2	3	4	5 <pre>
 
 31. Are the icons recognizable?
 
-Circle: 1 - easy to recognize, 5 - unrecognizable
+	Circle: 1 - easy to recognize, 5 - unrecognizable
 
 	<pre>1	2	3	4	5 <pre>
 
 32. Are the sounds audible?
 
-Circle: 1 - easy to hear, 5 - undecipherable
+	Circle: 1 - easy to hear, 5 - undecipherable
 
 	<pre>1	2	3	4	5 <pre>
 
